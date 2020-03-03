@@ -1,5 +1,5 @@
 # Predict-Provider-Calls
-Capstone project in 'R' for the course Optum Scaled Data Science submitted by Kruti Shah
+Capstone project in 'R' for the course Optum Scaled Data Science batch # 1907 submitted by Kruti Shah
 The course covered the concepts of Data cleaning, Exploratory Data Analysis, Data transformation, Feature reduction techniques, model preparation and one model execution.
 The capstone project was prepared to demonstrate the above concepts. Logistic regression model was used to showcase one modeling technique. 
 ## Business problem and question
